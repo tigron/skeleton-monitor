@@ -1,0 +1,21 @@
+{
+    "name": "tigron/skeleton-monitor",
+    "description": "Monitor the Skeleton framework",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tigron BVBA",
+            "email": "support@tigron.be"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/tigron/skeleton-monitor",
+        "issues": "https://github.com/tigron/skeleton-monitor/issues"
+    },
+    "autoload": {
+        "psr-4": { "Skeleton\\Monitor\\": "lib/Skeleton/Monitor" }
+    }
+}
